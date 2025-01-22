@@ -13,6 +13,3 @@ The goal of the game is simple: collect apples to increase your score while avoi
 - Implementation of class hierarchy to manage game objects.  
 - Reading and writing `.txt` files to store the HighScore.  
 - Simple and functional interface in Python.
-
-## Imagens
-![Tela Inicial](Snake%20Game%20-%20ScreenShots/screenshot_1.png)
