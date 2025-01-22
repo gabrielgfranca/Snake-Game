@@ -1,5 +1,5 @@
 # SnakeGame
-This game was developed to practice Object-Oriented Programming (OOP) and introduce concepts such as class hierarchy and `.txt` file manipulation, used here to store the player's high score.  
+This game was developed using the Turtle Library to practice Object Oriented Programming (OOP) and introduce concepts such as class hierarchy and manipulation of `.txt` files, used here to store the player's high score.  
 
 ### Objetivo  
 The goal of the game is simple: collect apples to increase your score while avoiding collisions with the screen edges or your own tail.  
