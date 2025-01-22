@@ -14,6 +14,7 @@ The goal of the game is simple: collect apples to increase your score while avoi
 - Reading and writing `.txt` files to store the HighScore.  
 - Simple and functional interface in Python.
 
+## Images
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Gabriel-Python" src="https://github.com/user-attachments/assets/dbf38c16-d4af-4338-91f7-ac2f9ae21caa" />
 </div>
