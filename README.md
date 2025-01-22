@@ -13,3 +13,7 @@ The goal of the game is simple: collect apples to increase your score while avoi
 - Implementation of class hierarchy to manage game objects.  
 - Reading and writing `.txt` files to store the HighScore.  
 - Simple and functional interface in Python.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
