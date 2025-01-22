@@ -15,3 +15,4 @@ The goal of the game is simple: collect apples to increase your score while avoi
 - Simple and functional interface in Python.
 
 ## Imagens
+![Tela Inicial](Snake%20Game%20-%20ScreenShots/screenshot_1.png)
